@@ -13,6 +13,19 @@ npm install
 
 npm run mon
 
+## simple connect api with postman
+method: post
+http://localhost:3000/users
+Body: raw -> json
+
+```
+{
+	"login": "minatorak",
+	"password": "password1234"
+}
+```
+
+
 ## Create User
 
 **Method:** POST
