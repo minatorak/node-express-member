@@ -1,5 +1,18 @@
 # RESTful API with Node Express Example
 
+## installation & start
+
+# install docker for mac os
+
+check docker version
+
+# start docker
+docker-compose up --build -d
+
+npm install
+
+npm run mon
+
 ## Create User
 
 **Method:** POST
