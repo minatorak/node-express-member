@@ -61,11 +61,13 @@ Body: raw -> json
 	"display": "John Farmer"
 }
 ```
-start angular
-install angular cli
+## start angular
+
+#install angular cli
+```
 npm install -g @angular/cli
 yarn global add @angular/cli
 
 ng version
-
+```
 
